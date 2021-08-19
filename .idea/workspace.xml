@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2221ad7-cfff-4ccb-bacb-35974f5c9f2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/lib/screens/chat/chat_history_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/screens/chat/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/screens/chat/model/chat_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/screens/chat/user_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/utils/base_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/utils/chat_clipper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lib/utils/progress_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/examples/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/credentials.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/credentials.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/screens/chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/screens/chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/screens/conference_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/screens/conference_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/screens/settings_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/screens/settings_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/screens/users_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/screens/users_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lib/utils/dialog_utils.dart" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lib/utils/dialog_utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectId" id="1r4gnagM5NA78iBco5mmGsRQwPB" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/lib/utils" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/lib/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/examples/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2221ad7-cfff-4ccb-bacb-35974f5c9f2f" name="Default Changelist" comment="" />
+      <created>1618240943873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618240943873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626879958876">
+      <screen x="0" y="25" width="1920" height="937" />
+    </state>
+    <state x="424" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.937@0.25.1920.937" timestamp="1626879958876" />
+    <state width="1878" height="505" key="GridCell.Tab.0.bottom" timestamp="1628182408902">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state width="1878" height="505" key="GridCell.Tab.0.bottom/0.25.1920.925@0.25.1920.925" timestamp="1628182408902" />
+    <state width="1878" height="493" key="GridCell.Tab.0.bottom/0.25.1920.937@0.25.1920.937" timestamp="1627648640797" />
+    <state width="1878" height="505" key="GridCell.Tab.0.center" timestamp="1628182408902">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state width="1878" height="505" key="GridCell.Tab.0.center/0.25.1920.925@0.25.1920.925" timestamp="1628182408902" />
+    <state width="1878" height="493" key="GridCell.Tab.0.center/0.25.1920.937@0.25.1920.937" timestamp="1627648640796" />
+    <state width="1878" height="505" key="GridCell.Tab.0.left" timestamp="1628182408901">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state width="1878" height="505" key="GridCell.Tab.0.left/0.25.1920.925@0.25.1920.925" timestamp="1628182408901" />
+    <state width="1878" height="493" key="GridCell.Tab.0.left/0.25.1920.937@0.25.1920.937" timestamp="1627648640795" />
+    <state width="1878" height="505" key="GridCell.Tab.0.right" timestamp="1628182408902">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state width="1878" height="505" key="GridCell.Tab.0.right/0.25.1920.925@0.25.1920.925" timestamp="1628182408902" />
+    <state width="1878" height="493" key="GridCell.Tab.0.right/0.25.1920.937@0.25.1920.937" timestamp="1627648640797" />
+    <state x="652" y="245" width="615" height="490" key="find.popup" timestamp="1628841782760">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state x="652" y="245" width="615" height="490" key="find.popup/0.25.1920.925@0.25.1920.925" timestamp="1628841782760" />
+    <state x="652" y="248" width="615" height="490" key="find.popup/0.25.1920.937@0.25.1920.937" timestamp="1627645385669" />
+    <state width="346" height="78" key="javadoc.popup.new" timestamp="1628179599023">
+      <screen x="0" y="25" width="1920" height="925" />
+    </state>
+    <state width="346" height="78" key="javadoc.popup.new/0.25.1920.925@0.25.1920.925" timestamp="1628179599023" />
+    <state width="346" height="78" key="javadoc.popup.new/0.25.1920.937@0.25.1920.937" timestamp="1627646575035" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/examples/lib/screens/chat/user_list.dart</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
